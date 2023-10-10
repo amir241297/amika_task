@@ -1,0 +1,24 @@
+#Home_div{
+    /* border: 1px solid teal; */
+    width: 90%;
+    margin: auto;
+}
+table{
+    /* border: 1px solid red; */
+    display: grid;
+    gap: 5px;
+}
+table>tr{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+
+}
+td,th{
+    /* color: royalblue; */
+    width: 250px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.button{
+    width: 70px;
+}
